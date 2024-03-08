@@ -1,0 +1,18 @@
+{
+  "supportStaff": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "roleName": "Physiotherapist",
+      "nationalityID": "US",
+      "nationalityName": "American"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "roleName": "Analyst",
+      "nationalityID": "GB",
+      "nationalityName": "British"
+    }
+  ]
+}
